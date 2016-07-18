@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ria Wang&#39;s Blog</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/riawang/atom.xml" rel="self"/>
   
-  <link href="http://www.riawang.cn/"/>
+  <link href="http://xiuyuliang.cn/riawang/"/>
   <updated>2016-07-18T01:27:12.000Z</updated>
-  <id>http://www.riawang.cn/</id>
+  <id>http://xiuyuliang.cn/riawang/</id>
   
   <author>
     <name>Ria Wang</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.riawang.cn/2016/07/17/hello-world/"/>
-    <id>http://www.riawang.cn/2016/07/17/hello-world/</id>
+    <link href="http://xiuyuliang.cn/riawang/2016/07/17/hello-world/"/>
+    <id>http://xiuyuliang.cn/riawang/2016/07/17/hello-world/</id>
     <published>2016-07-18T01:27:12.000Z</published>
     <updated>2016-07-18T01:27:12.000Z</updated>
     
