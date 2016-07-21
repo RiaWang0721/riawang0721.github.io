@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.riawang.cn/"/>
+  <link href="http://www.riawang.cn/"/>
   <updated>2016-07-18T01:27:12.000Z</updated>
-  <id>https://www.riawang.cn/</id>
+  <id>http://www.riawang.cn/</id>
   
   <author>
     <name>Ria Wang</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.riawang.cn/2016/07/17/hello-world/"/>
-    <id>https://www.riawang.cn/2016/07/17/hello-world/</id>
+    <link href="http://www.riawang.cn/2016/07/17/hello-world/"/>
+    <id>http://www.riawang.cn/2016/07/17/hello-world/</id>
     <published>2016-07-18T01:27:12.000Z</published>
     <updated>2016-07-18T01:27:12.000Z</updated>
     
