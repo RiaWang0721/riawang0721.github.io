@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.riawang.cn/"/>
-  <updated>2016-07-22T00:18:58.000Z</updated>
+  <updated>2016-07-22T02:54:07.000Z</updated>
   <id>http://www.riawang.cn/</id>
   
   <author>
@@ -16,27 +16,63 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello world, I&#39;m Ria Wang.</title>
-    <link href="http://www.riawang.cn/2016/07/21/Hello-I-m-Ria-Wang/"/>
-    <id>http://www.riawang.cn/2016/07/21/Hello-I-m-Ria-Wang/</id>
-    <published>2016-07-21T23:06:24.000Z</published>
-    <updated>2016-07-22T00:18:58.000Z</updated>
+    <title>Places I have been to during this summer</title>
+    <link href="http://www.riawang.cn/2016/07/21/travel_list/"/>
+    <id>http://www.riawang.cn/2016/07/21/travel_list/</id>
+    <published>2016-07-22T01:14:24.000Z</published>
+    <updated>2016-07-22T02:54:07.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://ww3.sinaimg.cn/large/72f96cbagw1f62d1mffhzj21kw11xqv5.jpg" alt="RiaWang and Yuliang Xiu"></p>
+    <content type="html"><![CDATA[<p><img src="http://ww1.sinaimg.cn/large/72f96cbagw1f62hx665f0j20qo0zkwox.jpg" alt="Travel with Yuliang"></p>
 <blockquote>
-<p>Welcome to Ria Wang’s blog, hope you can find something interested in!</p>
+<p>Chongqing and Zhangjia Jie</p>
 </blockquote>
 <a id="more"></a>
-<p>I am a master student majoring in computer science in Gatech.</p>
-<p>My interests are in Computer Graphics and Human-Computer Interaction.</p>
-<p>To be honest, I am really really really beautiful.</p>
-<p>But my boyfriend is much more beautiful than me.</p>
-<p>Fuck his beauty!</p>
+<p>##Chongqing<br><img src="http://ww3.sinaimg.cn/large/72f96cbagw1f62ho1lx9rj21kw16okjl.jpg" alt=""><br><img src="http://ww1.sinaimg.cn/large/72f96cbagw1f62ho8gvxrj20zk0qon41.jpg" alt=""><br><img src="http://ww2.sinaimg.cn/large/72f96cbagw1f62hnxm34cj21kw23u7wi.jpg" alt=""><br><img src="http://ww3.sinaimg.cn/large/72f96cbagw1f62hnusaamj20qo0zkdql.jpg" alt=""><br><img src="http://ww2.sinaimg.cn/large/72f96cbagw1f62hnsvajlj20qo0zkdk6.jpg" alt=""><br><img src="http://ww2.sinaimg.cn/large/72f96cbagw1f62hnroqyyj21kw23u4qp.jpg" alt=""></p>
+<p>#Zhangjia Jie<br><img src="http://ww4.sinaimg.cn/large/72f96cbagw1f62ho66ejij20qo0zkgnq.jpg" alt=""><br><img src="http://ww4.sinaimg.cn/large/72f96cbagw1f62ho5471rj20qo0zkq77.jpg" alt=""><br><img src="http://ww4.sinaimg.cn/large/72f96cbagw1f62ho43hrtj20qo0zkn2i.jpg" alt=""><br><img src="http://ww1.sinaimg.cn/large/72f96cbagw1f62ho2nexvj20qo0zk0vq.jpg" alt=""></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/72f96cbagw1f62d1mffhzj21kw11xqv5.jpg&quot; alt=&quot;RiaWang and Yuliang Xiu&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/72f96cbagw1f62hx665f0j20qo0zkwox.jpg&quot; alt=&quot;Travel with Yuliang&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Chongqing and Zhangjia Jie&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="travel" scheme="http://www.riawang.cn/tags/travel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello world, this is Ria Wang</title>
+    <link href="http://www.riawang.cn/2016/07/21/Hello-I-m-Ria-Wang/"/>
+    <id>http://www.riawang.cn/2016/07/21/Hello-I-m-Ria-Wang/</id>
+    <published>2016-07-21T23:06:24.000Z</published>
+    <updated>2016-07-22T02:38:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ww3.sinaimg.cn/large/72f96cbagw1f62hg7xjohj21kw11x4qp.jpg" alt="Ria Wang and Yuliang Xiu"></p>
+<blockquote>
+<p>Welcome to Ria Wang’s blog, hope you can find something interested in!</p>
+</blockquote>
+<a id="more"></a>
+<p>Hi boys and girls,</p>
+<p>My name is Ria Wang, a lovely girl with smiling eyes.</p>
+<p>I come from Qingdao, which is an impressing seaside town of China.</p>
+<p>After this summer holiday, I’ll leave for Gatech University in Atlanta to pursue my computer science master degree.</p>
+<p>My research interests are in Computer Graphics, Human-Computer Interaction and delicious food.😄</p>
+<p>This is my first blog, which was developed by a pretty handsome boy as my birthday gift.</p>
+<p>This guy is really really really really handsome, maybe the most handsome person I have ever seen.</p>
+<p>I will try my best to coax him into marriage.</p>
+<p>Believe me, I will make it.</p>
+<p>Take care @ <img src="http://xiuyuliang.cn/" alt="Yuliang"></p>
+<p><img src="http://ww3.sinaimg.cn/large/72f96cbagw1f62d1mffhzj21kw11xqv5.jpg" alt="RiaWang and Yuliang Xiu"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/72f96cbagw1f62hg7xjohj21kw11x4qp.jpg&quot; alt=&quot;Ria Wang and Yuliang Xiu&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Welcome to Ria Wang’s blog, hope you can find something interested in!&lt;/p&gt;
 &lt;/blockquote&gt;
